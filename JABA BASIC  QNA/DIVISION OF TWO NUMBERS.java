@@ -1,4 +1,4 @@
-// Write
+// WRITE A CODE TO CALCULATE DIVISION OF THE TWO INPUT NUMBERS
 import java.util.Scanner;
 public class Division {
     public static void main(String[] args) {
