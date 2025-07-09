@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        String name = "Koushik";
+        greet(name);
+    }
+
+    static void greet(String naam) {
+        System.out.println(naam);
+        // This & This need not be same
+        // The ultimate value the function will return is what we pass as arguments
+    }
+}
