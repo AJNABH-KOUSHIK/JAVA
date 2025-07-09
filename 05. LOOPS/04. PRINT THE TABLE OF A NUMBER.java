@@ -1,7 +1,7 @@
 // WRITE A CODE TO PRINT THE TABLE OF A NUMBER
 import java.util.Scanner;
 
-public class Q5_PrintTable {
+public class PrintTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
