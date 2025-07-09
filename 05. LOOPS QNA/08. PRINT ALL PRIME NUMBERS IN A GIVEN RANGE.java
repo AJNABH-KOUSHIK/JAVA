@@ -1,7 +1,7 @@
 // WRITE A CODE TO PRINT ALL PRIME NUMBERS IN A GIVEN RANGE
 import java.util.Scanner;
 
-public class Q15_PrimesInRange {
+public class PrimesInRange {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int low = sc.nextInt(), high = sc.nextInt();
