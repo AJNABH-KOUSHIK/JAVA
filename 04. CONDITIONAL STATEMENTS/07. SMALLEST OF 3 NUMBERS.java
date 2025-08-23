@@ -17,6 +17,9 @@ public class SmallestNumber {
         if (c < smallest) {
             smallest = c;
         }
+        // Using ternary operator to find smallest
+        // int smallest = (a < b) ? ((a < c) ? a : c) : ((b < c) ? b : c);
+
         System.out.println("Smallest number is: " + smallest);
     }
 }
